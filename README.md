@@ -77,3 +77,6 @@ formula : `Math.pow(length, 2) * Math.pow((frequency - 1), 0.33)`
  it will show instruction to follow on command line.
  enter any choice given in instruction and program will do rest of the things.
  
+ I've added the random_text.txt file already because wirting 3GB file taking very long time in python. so for checking the other part first you should enter 2 as a input     choice in command line.
+
+
