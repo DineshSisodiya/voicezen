@@ -4,7 +4,7 @@ import time
 
 # constants
 CHARS_TO_BE_READ = 3000
-ONE_GB_IN_BYTES = 4000#pow(10,9)
+ONE_GB_IN_BYTES = pow(10,9)
 
 def write_file():
     # t0=time.time() 
